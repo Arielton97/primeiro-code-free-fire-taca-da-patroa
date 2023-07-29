@@ -5,4 +5,6 @@ Usando esta página para treinar o GIT.
 
 Repósitório criado para o desafio de projeto.
 
-treino de versionamento
+treino de versionamento.
+
+## Salvando alterações no Git
