@@ -8,3 +8,4 @@ Repósitório criado para o desafio de projeto.
 treino de versionamento.
 
 ## Salvando alterações no Git
+* comando git push
